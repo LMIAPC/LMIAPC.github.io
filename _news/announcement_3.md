@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-09-15 17:59:00-0400
+date: 2016-09-30 17:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our work is in MICCAI Best Paper shortlist!
+Yiyu Gui and Mingzhi Chen's work is in the MICCAI Best Paper shortlist (Top 0.5%)!
