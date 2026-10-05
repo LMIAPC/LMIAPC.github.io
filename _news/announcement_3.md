@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yiyu Gui and Mingzhi Chen's work is in the MICCAI Best Paper shortlist (Top 0.5%)!
+Our work EEG foundation model **LEGEND** is in the **MICCAI Best Paper shortlist** (Top 0.5%)!
