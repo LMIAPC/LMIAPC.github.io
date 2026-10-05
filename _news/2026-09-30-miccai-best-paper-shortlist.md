@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work EEG foundation model **LEGEND** is in the **MICCAI Best Paper shortlist** (Top 0.5%)!
+Our EEG foundation model, **LEGEND**, has been shortlisted for the **MICCAI Best Paper Award** (Top 0.5%)!
