@@ -24,7 +24,7 @@ announcements:
 ---
 <style>
 .profile.float-left {
-  width: 20% !important;
+  width: 25% !important;
   max-width: 220px !important;
   margin-right: 28px !important;
   margin-bottom: 16px !important;
@@ -48,5 +48,3 @@ Dr. Luo is an Assistant Professor and Ph.D. Supervisor at the School of Electron
 His research focuses on medical foundation models, intelligent analysis of physiological signals, and privacy-preserving collaborative learning across multiple medical institutions. His current research interests include efficient training and inference of large foundation models, EEG and multimodal physiological-behavioral modeling, precise medical image segmentation and diagnosis, and collaborative optimization between foundation models and lightweight models. His methods have been applied to a variety of healthcare scenarios, including neurodevelopmental disorder assessment, intelligent health monitoring, and AI-assisted companionship and intervention for individuals with special needs.
 
 He received the Excellence Award in the 24th Peking University Young Faculty Teaching Competition, the ACL SAC Highlights Award, and was shortlisted for the MICCAI Best Paper Award. He has published more than 100 papers in leading international journals and conferences, including IEEE TPAMI, IEEE JBHI, Radiology: Artificial Intelligence, IEEE TCSVT, IEEE TCDS, Journal of Digital Imaging, CVPR, ECCV, AAAI, ACL, USENIX, ICSE, IJCAI, and MICCAI.
-
-He also serves as a reviewer for leading journals and conferences, including IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE Transactions on Broadcasting, IEEE TNNLS, Knowledge-Based Systems, CVPR, ICCV, ICLR, NeurIPS, KDD, and MICCAI.
