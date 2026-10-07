@@ -43,8 +43,10 @@ announcements:
   }
 }
 </style>
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Luo is an Assistant Professor and Ph.D. Supervisor at the School of Electronic and Computer Engineering, Peking University. Prior to joining Peking University, he conducted postdoctoral research at Harvard Medical School and Massachusetts General Hospital for nearly four years.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His research focuses on medical foundation models, intelligent analysis of physiological signals, and privacy-preserving collaborative learning across multiple medical institutions. His current research interests include efficient training and inference of large foundation models, EEG and multimodal physiological-behavioral modeling, precise medical image segmentation and diagnosis, and collaborative optimization between foundation models and lightweight models. His methods have been applied to a variety of healthcare scenarios, including neurodevelopmental disorder assessment, intelligent health monitoring, and AI-assisted companionship and intervention for individuals with special needs.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He received the Excellence Award in the 24th Peking University Young Faculty Teaching Competition, the ACL SAC Highlights Award, and was shortlisted for the MICCAI Best Paper Award. He has published more than 100 papers in leading international journals and conferences, including IEEE TPAMI, IEEE JBHI, Radiology: Artificial Intelligence, IEEE TCSVT, IEEE TCDS, Journal of Digital Imaging, CVPR, ECCV, AAAI, ACL, USENIX, ICSE, IJCAI, and MICCAI.
+
+He also serves as a reviewer for leading journals and conferences, including IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE Transactions on Broadcasting, IEEE TNNLS, Knowledge-Based Systems, CVPR, ICCV, ICLR, NeurIPS, KDD, and MICCAI.
