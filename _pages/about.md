@@ -27,7 +27,7 @@ announcements:
   width: 25% !important;
   max-width: 220px !important;
   margin-right: 28px !important;
-  margin-bottom: 16px !important;
+  margin-bottom: 10px !important;
 }
 
 .profile img {
@@ -43,8 +43,8 @@ announcements:
   }
 }
 </style>
-Dr. Luo is an Assistant Professor and Ph.D. Supervisor at the School of Electronic and Computer Engineering, Peking University. Prior to joining Peking University, he conducted postdoctoral research at Harvard Medical School and Massachusetts General Hospital for nearly four years.
+I am an Assistant Professor and Ph.D. Supervisor at the School of Electronic and Computer Engineering, Peking University. Prior to joining Peking University, I conducted postdoctoral research at Harvard Medical School and Massachusetts General Hospital for nearly four years.
 
-His research focuses on medical foundation models, intelligent analysis of physiological signals, and privacy-preserving collaborative learning across multiple medical institutions. His current research interests include efficient training and inference of large foundation models, EEG and multimodal physiological-behavioral modeling, precise medical image segmentation and diagnosis, and collaborative optimization between foundation models and lightweight models. His methods have been applied to a variety of healthcare scenarios, including neurodevelopmental disorder assessment, intelligent health monitoring, and AI-assisted companionship and intervention for individuals with special needs.
+My research focuses on medical foundation models, intelligent analysis of physiological signals, and privacy-preserving collaborative learning across institutions. My research interests include efficient foundation model training and inference, EEG and multimodal physiological-behavioral modeling, medical image segmentation and diagnosis, and collaborative optimization of foundation and lightweight models. Our methods have been applied to healthcare scenarios including neurodevelopmental disorder assessment, intelligent health monitoring, and AI-assisted companionship and intervention for individuals with special needs.
 
-He received the Excellence Award in the 24th Peking University Young Faculty Teaching Competition, the ACL SAC Highlights Award, and was shortlisted for the MICCAI Best Paper Award. He has published more than 100 papers in leading international journals and conferences, including IEEE TPAMI, IEEE JBHI, Radiology: Artificial Intelligence, IEEE TCSVT, IEEE TCDS, Journal of Digital Imaging, CVPR, ECCV, AAAI, ACL, USENIX, ICSE, IJCAI, and MICCAI.
+My group has received the ACL SAC Highlights Award and was shortlisted for the MICCAI Best Paper Award. We have published more than 100 papers in leading international journals and conferences, including IEEE TPAMI, IEEE JBHI, Radiology: Artificial Intelligence, IEEE TCSVT, IEEE TCDS, Journal of Digital Imaging, CVPR, ECCV, AAAI, ACL, USENIX Security, ICSE, IJCAI, and MICCAI.
