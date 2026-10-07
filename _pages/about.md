@@ -44,7 +44,7 @@ announcements:
 }
 
 article p {
-  font-weight: 390 !important;
+  font-weight: 400 !important;
   line-height: 1.55;
 }
 </style>
