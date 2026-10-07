@@ -42,6 +42,11 @@ announcements:
     margin-right: 20px !important;
   }
 }
+
+article p {
+  font-weight: 400 !important;
+  line-height: 1.55;
+}
 </style>
 I am an Assistant Professor and Ph.D. Supervisor at the School of Electronic and Computer Engineering, Peking University. Prior to joining Peking University, I conducted postdoctoral research at Harvard Medical School and Massachusetts General Hospital for nearly 4 years.
 
