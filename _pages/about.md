@@ -43,7 +43,7 @@ announcements:
   }
 }
 </style>
-I am an Assistant Professor and Ph.D. Supervisor at the School of Electronic and Computer Engineering, Peking University. Prior to joining Peking University, I conducted postdoctoral research at Harvard Medical School and Massachusetts General Hospital for nearly four years.
+I am an Assistant Professor and Ph.D. Supervisor at the School of Electronic and Computer Engineering, Peking University. Prior to joining Peking University, I conducted postdoctoral research at Harvard Medical School and Massachusetts General Hospital for nearly 4 years.
 
 My research focuses on medical foundation models, intelligent analysis of physiological signals, and privacy-preserving collaborative learning across institutions. My research interests include efficient foundation model training and inference, EEG and multimodal physiological-behavioral modeling, medical image segmentation and diagnosis, and collaborative optimization of foundation and lightweight models. Our methods have been applied to healthcare scenarios including neurodevelopmental disorder assessment, intelligent health monitoring, and AI-assisted companionship and intervention for individuals with special needs.
 
